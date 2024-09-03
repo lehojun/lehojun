@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${Hojun GitHub!%20!}&fontSize=${50}&animation=${twinkling})
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hojun%20github&fontSize=90" />
 <br>
 
 <!--내용 부분-->
