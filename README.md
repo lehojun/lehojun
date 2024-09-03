@@ -7,8 +7,10 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
-<br>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehojun&layout=compact)
+
+  <br>
+
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehojun&layout=compact)
 
 </div>
 
