@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehojun&layout=compact)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehojun\&rank_icon=github\&bg_color=20,e96443,904e95\&title_color=fff\&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehojun\&rank_icon=github\&bg_color=20,e96443,904e95\&title_color=fff\&text_color=fff)
 </div>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehojun&layout=compact)-->
 
 
 
