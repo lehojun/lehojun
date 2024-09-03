@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!&fontSize=50&animation=twinkling)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hojun-GitHub&fontSize=50&animation=twinkling)<br>
 
 <!--내용 부분-->
 <div align=center><h1>📚 STACKS</h1></div>
