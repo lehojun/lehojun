@@ -4,8 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hojun-GitHub&fontSize=50&animation=twinkling)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehojun&layout=compact)
-![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehojun\&rank_icon=github\&bg_color=20,e96443,904e95\&title_color=fff\&text_color=fff)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lehojun&theme=default)![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehojun\&rank_icon=github\&bg_color=20,e96443,904e95\&title_color=fff\&text_color=fff)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
